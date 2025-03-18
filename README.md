@@ -4,7 +4,7 @@ Overview
 <Br>
 This repository implements Quantum Key Distribution (QKD) using the BB84 and B92 protocols with Qiskit. QKD is a cryptographic technique that enables two parties to share encryption keys securely using quantum mechanics, ensuring resilience against eavesdropping.
 <Br>
-A report is attached in the repository which conatins all the prior knowlegde and in depth analysis of Qunatum Key Distribution Protocols.
+A report is attached in the repository which contains all the prior knowledge and in-depth analysis of Quantum Key Distribution Protocols.
 BB84 Protocol
 <Br>
 Uses two mutually unbiased bases (rectilinear and diagonal) for encoding qubits.
