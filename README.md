@@ -23,7 +23,7 @@ Bob can only detect a qubit in certain cases, enhancing security.
 <Br>
 The protocol reduces transmission redundancy while maintaining security.
 <Br>
-Installation
+<h2>Installation</h2>
 <Br>
 Prerequisites
 <Br>
@@ -36,7 +36,7 @@ Qiskit (Quantum computing framework)
 Setup
 <Br>
 
-Install dependencies:
+<h2>Install dependencies:</h2>
 <Br>
 pip install qiskit numpy matplotlib
 <Br>
@@ -52,7 +52,7 @@ The code simulates quantum key generation using Qiskit’s Aer simulator.
 <Br>
 After execution, Alice and Bob will have a shared secret key, with eavesdropping attempts detectable via quantum properties.
 <Br>
-Results
+<h2>Results</h2>
 <Br>
 Simulated key exchange between Alice and Bob.
 <Br>
@@ -60,7 +60,7 @@ Detection of eavesdroppers using quantum state collapse.
 <Br>
 Visualization of quantum states using Bloch spheres and histograms.
 <Br>
-Future Scope
+<h2>Future Scope</h2>
 <Br>
 Implement error correction and privacy amplification to improve practical security.
 <Br>
@@ -68,6 +68,6 @@ Extend QKD simulations to real quantum hardware instead of simulators.
 <Br>
 Explore integration with post-quantum cryptographic algorithms.
 <Br>
-Acknowledgments
+<h2>Acknowledgments</h2>
 <Br>
 This project uses Qiskit, an open-source quantum computing framework developed by IBM. The quantum computing community is to be credited with contributing to QKD research.
