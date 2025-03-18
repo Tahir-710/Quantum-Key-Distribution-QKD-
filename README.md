@@ -25,7 +25,7 @@ The protocol reduces transmission redundancy while maintaining security.
 <Br>
 <h2>Installation</h2>
 <Br>
-Prerequisites
+<h3>Prerequisites</h3>
 <Br>
 Python 3.x
 <Br>
@@ -33,16 +33,16 @@ Jupyter Notebook
 <Br>
 Qiskit (Quantum computing framework)
 <Br>
-Setup
+<h2>Setup</h2>
 <Br>
 
-<h2>Install dependencies:</h2>
+Install dependencies:
 <Br>
-pip install qiskit numpy matplotlib
+**pip install qiskit numpy matplotlib**
 <Br>
 Open the Jupyter Notebook:
 <Br>
-jupyter notebook "QKD BB84 and B92 protocols code.ipynb"
+**jupyter notebook "QKD BB84 and B92 protocols code.ipynb"**
 <Br>
 Usage
 <Br>
