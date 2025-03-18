@@ -47,7 +47,7 @@ Open the Jupyter Notebook:
 <li>Detection of eavesdroppers using quantum state collapse.</li>
 <li>Visualization of quantum states using Bloch spheres and histograms.</li>
 </ul>
-<h2>Future Scope<:/h2>
+<h2>Future Scope:</h2>
 <ul>
 <li>Implement error correction and privacy amplification to improve practical security.</li>
 <li>Extend QKD simulations to real quantum hardware instead of simulators.</li>
