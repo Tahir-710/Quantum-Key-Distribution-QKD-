@@ -1,4 +1,4 @@
-Quantum Key Distribution (QKD) - BB84 and B92 Protocols
+**Quantum Key Distribution (QKD) - BB84 and B92 Protocols**
 <Br>
 Overview
 <Br>
