@@ -7,13 +7,15 @@ This repository implements Quantum Key Distribution (QKD) using the BB84 and B92
 A report is attached in the repository which contains all the prior knowledge and in-depth analysis of Quantum Key Distribution Protocols.
 <h2>BB84 Protocol</h2>
 <Br>
--Uses two mutually unbiased bases (rectilinear and diagonal) for encoding qubits.
+<ul style="color:blue; font-size:18px;">
+<li> Uses two mutually unbiased bases (rectilinear and diagonal) for encoding qubits.</li>
 <Br>
-Alice randomly prepares qubits and sends them to Bob, who measures them with randomly chosen bases.
+<li>Alice randomly prepares qubits and sends them to Bob, who measures them with randomly chosen bases.</li>
 <Br>
-After transmission, Alice and Bob publicly compare bases and discard mismatched measurements.
+<li>After transmission, Alice and Bob publicly compare bases and discard mismatched measurements.</li>
 <Br>
-The remaining bits form a shared secret key.
+<li>The remaining bits form a shared secret key.</li>
+</ul>
 <Br>
 <h2>B92 Protocol</h2>
 <Br>
