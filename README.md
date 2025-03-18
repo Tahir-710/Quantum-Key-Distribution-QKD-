@@ -28,37 +28,30 @@ This repository implements Quantum Key Distribution (QKD) using the BB84 and B92
 <li>Qiskit (Quantum computing framework)</li>
 </ul>
 <h2>Setup</h2>
-<b>Install dependencies:</b>
+Install dependencies:
 <Br>
-<b>pip install qiskit numpy matplotlib</b>
+<b>"pip install qiskit numpy matplotlib"</b>
 <Br>
 Open the Jupyter Notebook:
 <b>jupyter notebook "QKD BB84 and B92 protocols code.ipynb"</b>
 <Br>
-Usage
-<Br>
-Run the notebook step by step to execute BB84 and B92 protocols.
-<Br>
-The code simulates quantum key generation using Qiskit’s Aer simulator.
-<Br>
-After execution, Alice and Bob will have a shared secret key, with eavesdropping attempts detectable via quantum properties.
-<Br>
+<h2>Usage</h2>
+<ul>
+<li>Run the notebook step by step to execute BB84 and B92 protocols.</li>
+<li>The code simulates quantum key generation using Qiskit’s Aer simulator.</li>
+<li>After execution, Alice and Bob will have a shared secret key, with eavesdropping attempts detectable via quantum properties.</li>
+</ul>
 <h2>Results</h2>
-<Br>
-Simulated key exchange between Alice and Bob.
-<Br>
-Detection of eavesdroppers using quantum state collapse.
-<Br>
-Visualization of quantum states using Bloch spheres and histograms.
-<Br>
+<ul>
+<li>Simulated key exchange between Alice and Bob.</ul>
+<li>Detection of eavesdroppers using quantum state collapse.</ul>
+<li>Visualization of quantum states using Bloch spheres and histograms.</ul>
+</ul>
 <h2>Future Scope</h2>
-<Br>
-Implement error correction and privacy amplification to improve practical security.
-<Br>
-Extend QKD simulations to real quantum hardware instead of simulators.
-<Br>
-Explore integration with post-quantum cryptographic algorithms.
-<Br>
+<ul>
+<li>Implement error correction and privacy amplification to improve practical security.</ul>
+<li>Extend QKD simulations to real quantum hardware instead of simulators.</ul>
+<li>Explore integration with post-quantum cryptographic algorithms.</ul>
+</ul>
 <h2>Acknowledgments</h2>
-<Br>
 This project uses Qiskit, an open-source quantum computing framework developed by IBM. The quantum computing community is to be credited with contributing to QKD research.
