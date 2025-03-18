@@ -4,7 +4,8 @@
 <Br>
 This repository implements Quantum Key Distribution (QKD) using the BB84 and B92 protocols with Qiskit. QKD is a cryptographic technique that enables two parties to share encryption keys securely using quantum mechanics, ensuring resilience against eavesdropping.
 <Br>
-**A report is attached in the repository which contains all the prior knowledge and in-depth analysis of Quantum Key Distribution Protocols.**
+<Br>
+<b>A report is attached in the repository which contains all the prior knowledge and in-depth analysis of Quantum Key Distribution Protocols.</b>
 <h2>BB84 Protocol</h2>
 <Br>
 <ul>
@@ -27,13 +28,12 @@ This repository implements Quantum Key Distribution (QKD) using the BB84 and B92
 <li>Qiskit (Quantum computing framework)</li>
 </ul>
 <h2>Setup</h2>
-Install dependencies:
+<b>Install dependencies:</b>
 <Br>
-**pip install qiskit numpy matplotlib**
+<b>pip install qiskit numpy matplotlib</b>
 <Br>
 Open the Jupyter Notebook:
-<Br>
-**jupyter notebook "QKD BB84 and B92 protocols code.ipynb"**
+<b>jupyter notebook "QKD BB84 and B92 protocols code.ipynb"</b>
 <Br>
 Usage
 <Br>
