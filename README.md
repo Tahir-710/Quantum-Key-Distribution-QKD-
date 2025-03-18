@@ -9,14 +9,10 @@ A report is attached in the repository which contains all the prior knowledge an
 <Br>
 <ul>
 <li> Uses two mutually unbiased bases (rectilinear and diagonal) for encoding qubits.</li>
-<Br>
 <li>Alice randomly prepares qubits and sends them to Bob, who measures them with randomly chosen bases.</li>
-<Br>
 <li>After transmission, Alice and Bob publicly compare bases and discard mismatched measurements.</li>
-<Br>
 <li>The remaining bits form a shared secret key.</li>
 </ul>
-<Br>
 <h2>B92 Protocol</h2>
 <Br>
 Uses two non-orthogonal states for secure key distribution.
